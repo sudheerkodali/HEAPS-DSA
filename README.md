@@ -11,3 +11,12 @@ Heaps-javascript
 | 5  | [Heap-deletion](#)                                                                                                                                                          |
 | 6  | [Heap-delection-implementation](#)                                                                                                                                          |
 
+
+
+
+
+
+| 1  | [What-are-heaps-and-why-are-they-used](#)   
+
+# Heaps-how they are used
+
