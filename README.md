@@ -24,4 +24,4 @@ Heaps-javascript
 
 | 2  | [Why-are-heaps-complete-binarytree](#) 
 
-![](./whyHeapscompleteBinarytree/image2.png)
+![](./whyHeapscompleteBinarytree/image1.png)
