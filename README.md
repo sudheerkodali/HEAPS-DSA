@@ -19,6 +19,5 @@ Heaps-javascript
 | 1  | [What-are-heaps-and-why-are-they-used](#)   
 
 ![](./Heaps-and-why-are-they-used/image1.png)
-
 # Heaps-how they are used
 
