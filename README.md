@@ -20,3 +20,8 @@ Heaps-javascript
 
 ![](./whatareheapsandwhyused/image1.png)
 
+
+
+| 2  | [Why-are-heaps-complete-binarytree](#) 
+
+![](./whyHeapscompleteBinarytree/image2.png)
