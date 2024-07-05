@@ -20,6 +20,10 @@ Heaps-javascript
 
 ![](./whatareheapsandwhyused/image1.png)
 
+# Heaps-how-they-are-used
+
+![](./whatareheapsandwhyused/image2.png)
+
 
 
 | 2  | [Why-are-heaps-complete-binarytree](#) 
