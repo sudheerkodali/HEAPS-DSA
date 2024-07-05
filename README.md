@@ -23,6 +23,7 @@ Heaps-javascript
 # Heaps-how-they-are-used
 <P><li> Suppose if child node is greater then parent node that is "P ≤ C" </li></P>
 <p><li> suppose if parent node is greater than child node that is "p < C" </li></p>
+  
 ![](./whatareheapsandwhyused/image2.png)
 
 
