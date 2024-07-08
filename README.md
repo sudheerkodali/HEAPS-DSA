@@ -31,3 +31,8 @@ Heaps-javascript
 | 2  | [Why-are-heaps-complete-binarytree](#) 
 
 ![](./whyHeapscompleteBinarytree/image1.png)
+
+
+| 3| [Heap-Insertion](#)  
+
+# Heaps-Insertion.
