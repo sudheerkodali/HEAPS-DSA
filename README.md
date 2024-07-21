@@ -39,6 +39,9 @@ Heaps-javascript
 # Heaps-Insertion.
 
 <p><li></li></p>
-
+<ul>
+<li>
+<li></li>
+  </ul>
 
 
