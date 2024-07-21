@@ -59,4 +59,11 @@ Heaps-javascript
   </div>
   </script>
   <color🔤></color🔤>
+  <bright color: blue :: green ></bright>
+<height :150 px
+width : 90px >
+
+margin 🥦
+border: yellow;
+  
 </ul>
