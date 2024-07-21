@@ -38,7 +38,7 @@ Heaps-javascript
 ![](./Heapinsertion/image1.png)
 # Heaps-Insertion.
 
-<p><li></li></p>
+<!--<p><li></li></p>
 <ul>
   
 <li>
@@ -65,6 +65,6 @@ width : 90px >
 
 margin 🥦
 margin: 
-border: yellow;
+border: yellow; -->
   
 </ul>
