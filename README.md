@@ -35,4 +35,5 @@ Heaps-javascript
 
 | 3| [Heap-Insertion](#)  
 
+![](./Heapinsertion/image1.png)
 # Heaps-Insertion.
