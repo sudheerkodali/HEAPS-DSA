@@ -59,6 +59,10 @@ Heaps-javascript
   </div>
   </script>
   <color🔤></color🔤>
+  <color> blue </color>
+  <con>
+  
+  </con>
   <bright color: blue :: green ></bright>
 <height :150 px
 width : 90px >
