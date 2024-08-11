@@ -58,7 +58,7 @@ Heaps-javascript
   container
   </div>
   </script>
-  <color🔤></color🔤>
+  <color🔤>blue</color🔤>
   <color> blue </color>
   <con>
   
