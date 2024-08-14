@@ -9,9 +9,11 @@ Heaps-javascript
 | 3  | [Heap-Insertion](#)                                                                                                                                                         |
 | 4  | [Heap-insertion-implemention](#)                                                                                                                                            |
 | 5  | [Heap-deletion](#)                                                                                                                                                          |
-| 6  | [Heap-delection-implementation](#)                                                                                                                                          |
-
-
+| 6  | [Heap-delection-implementation](#)   
+| 7  | [Heap-with-custom-comparator](#)                                                                                                                                                                              |
+| 8  | [Heapify](#)                                                                                                                                                                                                  |
+| 9  | [Heap-with-custom-comparator](#)                                                                                                                                                                              | 
+| 10 | [Array-immplementation-of-heads](#)                                                                                                                                                                           |
 
 
 
