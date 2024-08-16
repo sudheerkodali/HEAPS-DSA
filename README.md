@@ -83,3 +83,9 @@ border: yellow; -->
 # Heap-insertion-implemention
 
 
+
+| 5  | [Heap-Deletion](#)  
+![](./Heap-deletion/image1.png)
+# Heap-deletion
+
+
