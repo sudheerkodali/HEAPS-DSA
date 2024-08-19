@@ -82,6 +82,7 @@ border: yellow; -->
 
 | 4  | [Heap-insertion-implemention](#)   
 ![](./Heap-insertion-implemention/image1.png)
+
 # Heap-insertion-implemention
 
 
@@ -93,7 +94,12 @@ border: yellow; -->
 
 | 6  | [Heap-Deletion-implementation](#)  
 ![](./Heap-deletion-implementation/image1.png)
-# Heap-deletion
+# Heap-deletion-implemention
+
+
+| 7 | [Heap-custom-confomation](#)   
+![](./Heap-insertion-implemention/image1.png)
+
 
 
 
