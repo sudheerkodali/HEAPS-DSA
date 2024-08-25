@@ -94,18 +94,7 @@ border: yellow; -->
 
 | 6  | [Heap-Deletion-implementation](#)  
 ![](./Heap-deletion-implementation/image1.png)
-
-
-
 # Heap-deletion-implemention
-
-
-| 7 | [ Heapy] (#)
-![](./Heapy/image1.png)
-
-
-
-
 
 
 
@@ -113,6 +102,13 @@ border: yellow; -->
 | 7 | [Heap-custom-confomation](#)   
 ![](./Heap-insertion-implemention/image1.png)
 # Heap-custom-confomatiom
+
+
+| 8 | [ Heapy] (#)
+![](./Heapy/image1.png)
+# Heapy 
+
+
 
 
 
