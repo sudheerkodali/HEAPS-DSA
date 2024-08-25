@@ -104,9 +104,19 @@ border: yellow; -->
 # Heap-custom-confomatiom
 
 
-| 8 | [ Heapy] (#)
+
+| 8 | [ Heapify] (#)
 ![](./Heapy/image1.png)
-# Heapy 
+# Heapify
+
+
+
+
+
+
+| 9 | [ Heapy] (#)
+![](./Heapy/image1.png)
+# Heapify 
 
 
 
