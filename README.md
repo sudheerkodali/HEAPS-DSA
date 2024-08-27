@@ -110,8 +110,13 @@ border: yellow; -->
 # Heapify
 
 
-| 9 |  [ Array-implemention- of - heaps]
+| 9 |  [ Array-implemention- of - heaps] ( #)
 ![] ( ./ Array implementation of heaps/image1.png)
+
+| 10 | [Heaps-implementation-heads ](#)
+![] (.Heaps heads /image1.png)
+
+
 
 
 
