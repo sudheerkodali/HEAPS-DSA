@@ -110,6 +110,16 @@ border: yellow; -->
 # Heapify
 
 
+| 9 |  [ Array-implemention- of - heaps]
+![] ( ./ Array implementation of heaps/image1.png)
+
+
+
+
+
+
+
+
 
 
 | 9 | [[Heap-with-custom-comparator](#)](#)
