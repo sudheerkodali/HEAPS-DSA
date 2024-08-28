@@ -13,7 +13,7 @@ Heaps-javascript
 | 7  | [Heap-with-custom-comparator](#)                                                                                                                                                                              |
 | 8  | [Heapify](#)                                                                                                                                                                                                  |
 | 9  | [Heap-with-custom-comparator](#)                                                                                                                                                                              | 
-| 10 | [Array-immplementation-of-heads](#)                                                                                                                                                                           |
+| 10 | [Array-implementation-of-heads](#)                                                                                                                                                                           |
 
 
 
@@ -110,26 +110,18 @@ border: yellow; -->
 # Heapify
 
 
-| 9 |  [ Array-implemention- of - heaps] ( #)
-![] ( ./ Array implementation of heaps/image1.png)
-
-| 10 | [Heaps-implementation-heads ](#)
-![] (.Heaps heads /image1.png)
-
-
-
-
-
-
-
-
-
-
-
-
 | 9 | [[Heap-with-custom-comparator](#)](#)
 ![](./Heap-with-custom-comparator/image1.png)
 # Heap with custom comparator 
+
+
+
+| 10 | [ Array-implementation-of-heads] (#)
+![](./Array-implementation-of-heads/image1.png)
+# Array implementation of heads
+
+
+
 
 
 
