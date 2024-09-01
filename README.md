@@ -116,7 +116,7 @@ border: yellow; -->
 
 
 
-| 10 | [ Array-implementation-of-heads] (#)
+| 10 | [ Array-implementation-of-heads](#)
 ![](./Array-implementation-of-heads/image1.png)
 # Array implementation of heads
 
