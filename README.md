@@ -110,7 +110,7 @@ border: yellow; -->
 # Heapify
 
 
-| 9 | [[Heap-with-custom-comparator](#)](#)
+| 9 | [[Heap-with-custom-comparator](#)
 ![](./Heap-with-custom-comparator/image1.png)
 # Heap with custom comparator 
 
