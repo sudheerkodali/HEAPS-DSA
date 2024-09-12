@@ -113,7 +113,7 @@ border: yellow; -->
 | 9 | [[Heap-with-custom-comparator](#)
 ![](./Heap-with-custom-comparator/image1.png)
 # Heap with custom comparator 
-
+#
 
 
 | 10 | [ Array-implementation-of-heads](#)
