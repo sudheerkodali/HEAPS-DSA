@@ -99,29 +99,25 @@ border: yellow; -->
 
 
 
-| 7 | [Heap-custom-confomation](#)   
-![](./Heap-insertion-implemention/image1.png)
+| 7 | [heapwithcustomcomparator](#)   
+![](./heapwithcustomcomparator/image1.png)
 # Heap-custom-confomatiom
 
 
 
 | 8 | [ Heapify] (#)
-![](./Heapy/image1.png)
+![](./Heapify/image1.png)
 # Heapify
 
 
-| 9 | [[Heap-with-custom-comparator](#)
-![](./Heap-with-custom-comparator/image1.png)
-# Heap with custom comparator 
-#
 
 
-| 10 | [ Array-implementation-of-heads](#)
+| 9 | [ Array-implementation-of-heads](#)
 ![](./Array-implementation-of-heads/image1.png)
 # Array implementation of heads
 
 
-# Basis concepts of array implementation
+
 
 
 
