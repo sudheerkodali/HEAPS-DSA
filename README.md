@@ -104,12 +104,9 @@ border: yellow; -->
 # Heap-custom-confomatiom
 
 
-
 | 8 | [ Heapify](#)
 ![](./Heapify/image1.png)
 # Heapify
-
-
 
 
 | 9 | [ Array-implementation-of-heads](#)
