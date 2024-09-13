@@ -105,7 +105,7 @@ border: yellow; -->
 
 
 
-| 8 | [ Heapify] (#)
+| 8 | [ Heapify](#)
 ![](./Heapify/image1.png)
 # Heapify
 
