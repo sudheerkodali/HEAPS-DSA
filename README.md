@@ -81,19 +81,19 @@ border: yellow; -->
 </ul>
 
 | 4  | [Heap-insertion-implemention](#)   
-![](./Heap-insertion-implemention/image1.png)
+![](./Heapinsertionimplementaion/image1.png)
 
 # Heap-insertion-implemention
 
 
 
 | 5  | [Heap-Deletion](#)  
-![](./Heap-deletion/image1.png)
+![](./Heapdeletion/image1.png)
 # Heap-deletion
 
 
 | 6  | [Heap-Deletion-implementation](#)  
-![](./Heap-deletion-implementation/image1.png)
+![](./Heapdeletionimplemention/image1.png)
 # Heap-deletion-implemention
 
 
