@@ -12,8 +12,8 @@ Heaps-javascript
 | 6  | [Heap-delection-implementation](#)                                                                                                                                      |
 | 7  | [Heap-with-custom-comparator](#)                                                                                                                                        |
 | 8  | [Heapify](#)                                                                                                                                                            |
-| 9  | [Heap-with-custom-comparator](#)                                                                                                                                                                              | 
-| 10 | [Array-implementation-of-heads](#)                                                                                                                                                                           |
+| 9  | [Array-implementatio-of-heads](#)                                                                                                                                                                              | 
+
 
 
 
