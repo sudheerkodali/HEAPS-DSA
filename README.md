@@ -97,8 +97,8 @@ border: yellow; -->
 # Heap-deletion-implemention
 
 
-| 7 | [heapwithcustomcomparator](#)   
-![](./heapwithcustomcomparator/image1.png)
+| 7 | [Heap-with-custom-comparator](#)   
+![](./heap-with-custom-comparator/image1.png)
 # Heap-custom-comparator
 
 
