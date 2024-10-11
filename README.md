@@ -98,7 +98,7 @@ border: yellow; -->
 
 
 | 7 | [Heap-with-custom-comparator](#)   
-![](./heap-with-custom-comparator/image1.png)
+![](./heapwithcustomcomparator/image1.png)
 # Heap-custom-comparator
 
 
