@@ -102,7 +102,7 @@ border: yellow; -->
 # Heap-custom-comparator
 
 
-| 8 | [ Heapify](#)
+| 8 |[ Heapify](#)
 ![](./Heapify/image1.png)
 # Heapify
 
