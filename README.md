@@ -99,7 +99,7 @@ border: yellow; -->
 
 | 7 | [heapwithcustomcomparator](#)   
 ![](./heapwithcustomcomparator/image1.png)
-# Heap-custom-confomatiom
+# Heap-custom-comparator
 
 
 | 8 | [ Heapify](#)
