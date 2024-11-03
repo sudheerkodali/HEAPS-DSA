@@ -111,7 +111,7 @@ border: yellow; -->
 # Heapify
 
 
-| 9 | [ Array-implementation-of-heads](#)
+| 9 | [ Array-implementation-of-head(#)
 ![](./Array-implementation-of-heads/image1.png)
 
 
