@@ -116,6 +116,7 @@ border: yellow; -->
 
 
 # Array implementation of heads
+![](./Heap /umage1.png)
 
 
 
